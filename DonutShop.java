@@ -11,9 +11,15 @@ public class DonutShop {
         // TODO: uncomment when finished writing getDonuts()
         //donuts = getDonuts();
 
+        // TODO: uncomment when finished writing getDonuts()
+        //System.out.printf("You are going to buy %.2f donuts!", donuts);
+
         // get the randomly generated cost for each donut
         //TODO: uncomment when finished writing getCost()
         //cost = getCost();
+
+        //TODO: uncomment when finished writing getCost()
+        //System.out.printf("Each donut will cost $%.2f.");
 
         // prompt the user to enter the discount
         System.out.print("Enter the discount (0.0, 0.10, 0.25, etc.): ");
