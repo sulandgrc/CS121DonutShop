@@ -32,7 +32,7 @@ To select the cost:
 
 1. Use the `Random` class to construct a random number generator object.
 2. Use its `nextInt()` method to generate an integer between **1 and 3, inclusive**.
-3. Use a series of `if` statements to determine the cost:
+3. Use the most efficient `if` structure to determine the cost:
    - If the random number is `1`, set the cost to `$1.25`.
    - If the random number is `2`, set the cost to `$1.75`.
    - If the random number is `3`, set the cost to `$2.50`.
